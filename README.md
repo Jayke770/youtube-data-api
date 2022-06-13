@@ -2,4 +2,4 @@
 Get Comments &amp; Statistics of any YouTube Video
 
 # Installation 
- ```pip install -r requirements.txt
+ `` pip install -r requirements.txt
