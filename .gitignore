@@ -1,0 +1,4 @@
+node_modules
+env.py
+*.csv
+__pycache__
